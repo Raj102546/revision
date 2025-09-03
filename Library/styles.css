@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(136, 128, 56);
+}
+.bookInput{
+    background-color: aquamarine;
+    height: auto;
+}
+
+.addBook{
+    background-color: khaki;
+    color: white;
+    width: 100px;
+    height: 150px;
+    outline: none;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 10px;
+}
+.addBook:hover{
+    cursor: pointer;
+}
